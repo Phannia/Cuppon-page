@@ -1,0 +1,16 @@
+/* Fuente Roboto */
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+/* Tamaño Logo Cuppon blanco */
+.white-logo{
+    width: 86px; 
+    height: 25px
+}
+
+/* Tamaño Logo Cuppon negro */
+.black-logo{
+    width: 86px; 
+    height: 25px
+}
